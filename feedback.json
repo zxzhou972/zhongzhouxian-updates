@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "schema": 1,
+    "application": "zhongzhouxian-public-feedback",
+    "repository": "zxzhou972/zhongzhouxian-updates",
+    "endpoint": "https://llc-plymouth-recommendations-authorized.trycloudflare.com",
+    "serviceId": "2484cd1fc9efbd9762eeb70a856d8dee",
+    "issuedAt": "2026-11-17T05:36:23+00:00"
+  },
+  "signature": "qqx9YbrdQ/JIKNhb1Lt3/y8sIKwN9c9ilW5fNr0yL4EZCD2udvhUfyTt+LGfzGkkDhVk2mDIwPvZqNuEehovBA=="
+}
